@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# /prediction(2/3)
+# /prediction
 
 Команды для Twitch прогнозов: "Какое число выпадет в конец стрима?".
 
