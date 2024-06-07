@@ -10,4 +10,4 @@ sidebar_position: 9
 <img src={require('@site/static/examples/prediction/prediction2.png').default} />
 
 **/prediction3** - Эта команда для прогнозов с тремя числами.
-<img src={require('@site/static/examples/prediction/prediction3.png').default} />
+<img src={require('@site/static/examples/prediction/test.png').default} />
