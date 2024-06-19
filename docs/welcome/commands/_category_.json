@@ -1,6 +1,6 @@
 {
   "label": "Команды",
-  "position": 2,
+  "position": 1,
   "link": {
     "type": "generated-index",
     "description": "Здесь находится полный список команд Топтунового бота, а также их описание."
