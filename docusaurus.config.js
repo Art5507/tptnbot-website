@@ -74,6 +74,14 @@ const config = {
                 label: 'Команды',
                 to: '/docs/category/команды',
               },
+              {
+                label: 'Авто-реакции',
+                to: '/docs/welcome/autoreaction',
+              },
+              {
+                label: 'Авто-ветка',
+                to: '/docs/welcome/autothread',
+              },
             ],
           },
           {

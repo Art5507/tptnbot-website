@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/commands.svg').default,
     description: (
       <>
-        Команды с рандомом, локальными мемами и многое другое.
+        Команды с рандомом, модерация сервера и многое другое.
         Подробнее в документации.
       </>
     ),
