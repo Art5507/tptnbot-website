@@ -22,11 +22,6 @@ function HomepageHeader() {
             to="https://discord.com/oauth2/authorize?client_id=1247099202392035329&permissions=8&scope=applications.commands+bot">
             Добавить бота
           </Link>
-          <Link
-            className="button button--outline button--lg"
-            to={useBaseUrl("docs/category/топтуновый-бот")}>
-            Документация
-          </Link>
         </div>
       </div>
     </header>
