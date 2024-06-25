@@ -82,6 +82,10 @@ const config = {
                 label: 'Авто-ветка',
                 to: '/docs/welcome/autothread',
               },
+              {
+                label: 'Авто-роли',
+                to: '/docs/welcome/autorole',
+              },
             ],
           },
           {
