@@ -89,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/G5YXuqTWYS',
+                href: 'https://discord.gg/BCp784Gr3x',
               },
               {
                 label: 'Telegram',
