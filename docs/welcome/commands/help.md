@@ -4,5 +4,5 @@ sidebar_position: 1
 
 # /help
 
-Отправляет ссылку на этот сайт.
+Отправляет справку Топтунового бота.
 <img src={require('@site/static/examples/help.png').default} />
