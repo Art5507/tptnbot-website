@@ -35,3 +35,7 @@ sidebar_position: 10
 
 **/nap** (сообщение) - Перейти в режим дремоты.
 <img src={require('@site/static/examples/afk/nap.png').default} />
+
+**/draw** (сообщение) - Перейти в режим рисования.
+<img src={require('@site/static/examples/afk/draw.png').default} />
+
