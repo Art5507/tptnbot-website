@@ -76,15 +76,15 @@ const config = {
               },
               {
                 label: 'Авто-реакции',
-                to: '/docs/welcome/autoreaction',
+                to: '/docs/autoreaction',
               },
               {
                 label: 'Авто-ветка',
-                to: '/docs/welcome/autothread',
+                to: '/docs/autothread',
               },
               {
                 label: 'Авто-роли',
-                to: '/docs/welcome/autorole',
+                to: '/docs/autorole',
               },
             ],
           },
