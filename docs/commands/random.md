@@ -4,5 +4,5 @@ sidebar_position: 7
 
 # /random
 
-Рандомное число от 1 до 999.
+/random (минимальное) (максимальное) - Отправляет случайное число в зависимости от параметров
 <img src={require('@site/static/examples/random.png').default} />
