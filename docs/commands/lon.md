@@ -11,6 +11,7 @@ sidebar_position: 5
 ## Описание
 
 Пишет "[Лон](https://taplink.cc/tipolon) ты скуф".
+
 *(Локальный мем)*
 
 ## Скриншот
