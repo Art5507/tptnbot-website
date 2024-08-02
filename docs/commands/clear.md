@@ -4,5 +4,14 @@ sidebar_position: 15
 
 # /clear
 
-**/clear** (количество) - Очистить чат.
+## Доступно
+
+В Discord
+
+## Описание
+
+**/clear (количество)**
+Очистить чат.
+
+## Скриншот
 <img src={require('@site/static/examples/clear.png').default} />
