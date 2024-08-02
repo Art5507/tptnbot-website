@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/addbot.svg').default,
     description: (
       <>
-        Вам нужно добавить бота на сервер и готово!
+        Вам нужно добавить бота и готово!
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/commands.svg').default,
     description: (
       <>
-        Команды с рандомом, модерация сервера и многое другое.
+        Команды с рандомом, модерация и многое другое.
         Подробнее в документации.
       </>
     ),
@@ -27,7 +27,7 @@ const FeatureList = [
     Svg: require('@site/static/img/pythonlogo.svg').default,
     description: (
       <>
-        Библиотека discord.py
+        Библиотека discord.py для Discord версии, библиотека TwitchIO для Twitch версии.
       </>
     ),
   },
