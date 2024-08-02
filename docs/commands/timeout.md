@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# /timeout
+# timeout
 
 ## Доступно
 
