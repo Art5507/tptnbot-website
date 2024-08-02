@@ -2,9 +2,16 @@
 sidebar_position: 4
 ---
 
-# /shdhdexplosion
+# shdhdexplosion
 
-Взрывает [ШадоуДемона](https://linktr.ee/ShadowDemonHD).
-<img src={require('@site/static/examples/shdhdexplosion.png').default} />
+## Доступно
 
+В Discord и Twitch
+
+## Описание
+
+Взрывает [ШадоуДемона](https://shadowdemonhd.carrd.co/).
 *(Локальный мем)*
+
+## Скриншот
+<img src={require('@site/static/examples/shdhdexplosion.png').default} />
