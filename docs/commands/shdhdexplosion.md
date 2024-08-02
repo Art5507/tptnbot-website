@@ -11,6 +11,7 @@ sidebar_position: 4
 ## Описание
 
 Взрывает [ШадоуДемона](https://shadowdemonhd.carrd.co/).
+
 *(Локальный мем)*
 
 ## Скриншот
