@@ -2,8 +2,15 @@
 sidebar_position: 8
 ---
 
-# /coin
+# coin
+
+## Доступно
+
+В Discord и Twitch
+
+## Описание
 
 Бросает монетку и говорит: орел или решка.
-<img src={require('@site/static/examples/coin.png').default} />
 
+## Скриншот
+<img src={require('@site/static/examples/coin.png').default} />
