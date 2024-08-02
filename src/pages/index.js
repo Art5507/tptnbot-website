@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Еще один Discord бот">
+      description="Еще один чат-бот">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
