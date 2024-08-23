@@ -9,7 +9,7 @@ sidebar_position: 3
 В Discord и Twitch
 
 ## Описание
-Взрывает [автора бота](https://art5507.carrd.co/).
+Взрывает [автора бота](https://art5507.vercel.app/).
 
 *(Локальный мем)*
 
